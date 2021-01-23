@@ -1,4 +1,4 @@
-# foster_logger
+# Kotrai for Maldive Guest House
 
 A new Flutter project.
 
